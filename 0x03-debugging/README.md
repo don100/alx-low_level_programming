@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
@@ -55,3 +56,6 @@ Line count will not be checked for this task.
 3. Leap year
 mandatory
 This program converts a date to the day of year and determines how many days are left in the year, taking leap year into consideration.
+=======
+Hello 3 C
+>>>>>>> 1535fc88296e15f4c699d0ed877c30ba0d52a99a

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C - Variables, if, else, while
 
 0. Positive anything is better than negative nothing
@@ -68,3 +69,6 @@ Numbers are printed with two digits [ie. 1 is printed as 01].
 00 01 and 01 00 are considered the same as the combination of of the numbers 0 and 1.
 Combinations of numbers are separated by ,, followed by a space.
 Combinations of numbers are printed in ascending order.
+=======
+Hello 1 C
+>>>>>>> 1535fc88296e15f4c699d0ed877c30ba0d52a99a

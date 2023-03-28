@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0. _putchar
 mandatory
 Write a program that prints _putchar, followed by a new line.
@@ -80,3 +81,6 @@ If input is greater than 15 or less than 0, function prints nothing.
 16. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A+
 
 104-fibonacci.c: C program that prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line, without using long long, malloc, pointers, arrays, structures, or any library besides the standard. Numbers are separated by a comma followed by a space.
+=======
+Hello 2 C
+>>>>>>> 1535fc88296e15f4c699d0ed877c30ba0d52a99a

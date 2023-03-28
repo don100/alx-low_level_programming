@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 General
 Why C programming is awesome (don’t forget to tweet today, with the hashtag #cisfun :))
 Who invented C
@@ -16,3 +17,6 @@ Requirements C
 Allowed editors: vi, vim, emacs
 All your files will be compiled on Ubuntu 14.04 LTS using gcc 4.8.4
 Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
+=======
+Hello C
+>>>>>>> 1535fc88296e15f4c699d0ed877c30ba0d52a99a

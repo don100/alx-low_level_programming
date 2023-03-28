@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 General
 Why C programming is awesome (don’t forget to tweet today, with the hashtag #cisfun :))
 Who invented C
@@ -80,3 +81,6 @@ int main(void) { write(2, "and that piece of art is useful" - Dora Korpar, 2015-
 
 return (1);
 }
+=======
+Hello 0 C
+>>>>>>> 1535fc88296e15f4c699d0ed877c30ba0d52a99a
