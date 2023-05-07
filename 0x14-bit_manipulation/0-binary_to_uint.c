@@ -7,12 +7,24 @@
  * Return:converted number, or 0
  */
 
-unsigned int binary_to_uint(char *b){
-    unsigned int x = 0;
-    for(int i =0 ; i<strlen(b) ; i++){
-        if(b[i]!='0' && b[i]!='1')
-            return 0;
-        x+=(b[i]-'0')*pow(2,strlen(b)-i-1);
-    }
- return x;   
+unsigned int binary_to_uint(const char *b)
+{
+	int i;
+	unsigned int j;
+
+	j = 0;
+	if (!b)
+		return (0);
+	for (i = 0; b[i] != '\0'; i++)
+	{
+		if (b[i] != '0' && b[i] != '1')
+			return (0);
+	}
+	for (i = 0; b[i] != '\0'; i++)
+	{
+		j <<= 1;
+		if (b[i] == '1')
+			j += 1;
+	}
+	return (j);
 }
